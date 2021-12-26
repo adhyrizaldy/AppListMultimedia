@@ -19,7 +19,7 @@ public class Datavalues {
             R.drawable.poster_hunterkiller,
             R.drawable.poster_mortalengine,
             R.drawable.poster_robinhood,
-            R.drawable.poster_spiderman};
+            R.drawable.poster_spiderman
 
     public static final String [] detailfilm = {"Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Allys career takes off, the personal",
             "Once home to the most advanced civilization Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.",
